@@ -13,3 +13,7 @@ Utilizando HTML, CSS y un toque de JavaScript, se crea un diseño atractivo que 
 * Contenido Dinámico: Observa cómo las imágenes y el contenido de texto reaccionan con suavidad a las interacciones.
 * Enlace de Contacto: Haz clic en el enlace "Contactar" para explorar la posible acción asociada.
 
+## Capturas del proyecto
+
+![Captura de pantalla (391)](https://github.com/Alejandro-Az/Efecto-Hover/assets/105530752/2ecad37a-1e76-4af0-943b-fb15af8edd32)
+![Captura de pantalla 2023-12-07 234005](https://github.com/Alejandro-Az/Efecto-Hover/assets/105530752/dd66658b-51e8-49db-8c36-85ff018c2017)
